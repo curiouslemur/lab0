@@ -44,7 +44,7 @@ The fork button is located on the top right of this page. [help](https://help.gi
       
       viii. Use the generated token as your password when cloning your repository using Git
 
-  d. Move into your *lab0* directory and create an *index.html* file with the same content as [here](https://github.com/cs3041-b21/lab0/blob/master/README.md#indexhtml-code). You can use any editor mentioned [here](https://github.com/cs3041-b21/lab0/blob/master/README.md#Text-Editor) Save your edit.
+  d. Move into your *lab0* directory and create an *index.html* file with the same content as [here](https://github.com/cs3041-d22/lab0/blob/master/README.md#indexhtml-code). You can use any editor mentioned [here](https://github.com/cs3041-d22/lab0/blob/master/README.md#Text-Editor) Save your edit.
 
   e. Whenever you want to submit your local changes to your remote repository, open a terminal inside your project and type the following commands: 
 ```
@@ -68,19 +68,19 @@ git push --set-upstream origin gh-pages   // to do only the first time you push 
 ```
 #### Option2: online on Github
   a. Create a new branch called *gh-pages* in your repository and make sure its content is the same as the master branch. 
-![](https://github.com/cs3041-b21/lab0/blob/master/img/image7.gif)
+![](https://github.com/cs3041-d22/lab0/blob/master/img/image7.gif)
 
 ### 5. Access your web page
 
-#### Option1: locally 
+#### Option 1️⃣: locally 
 While you are coding, you can always test your webpage locally by opening your index.html with your browser. 
 
-#### Option2: online
+#### Option 2️⃣: online
 Testing your Github page online is only possible once you pushed your changes to the *gh-pages* branch. Type the following url in your browser:  `username.github.io/lab0/index.html`
 Replace username with your actual Github username and repoName with *lab0*
 
 **Note**: Sometimes it might take a while for the latest version to refresh and load. 
-![](https://github.com/cs3041-b21/lab0/blob/master/img/image6.gif)
+![](https://github.com/cs3041-d22/lab0/blob/master/img/image6.gif)
 
 **Note:** If you are getting an error when trying to load your page
 1. Navigate here: https://github.com/yourGithubUsername/lab0/settings/pages - Make sure to change yourGithubUsername to your github username.
@@ -90,19 +90,19 @@ Replace username with your actual Github username and repoName with *lab0*
 3. Click save.
 
 ## Set up testing environment
-####1. Set up **testing environments** for iOS and Android devices
+#### 1. Set up **testing environments** for iOS and Android devices
 
 a. For this class, we will mostly use Chrome Developer tools, which allow you to easily test your UI to see how it will look on different devices. 
 - Open any website in Chrome. You can use the test page that you just created (https://username.github.io/lab0/index.html)- Make sure to replace "username” with your own Github username.
 - View -> Developer Tools -> Developer Tools (you can also do *ctrl+shift+i* or *Right-click on the page>inspect*
         -- (Note: If you don't see this: there may be "three dots" at the right corner of your screen, -> More tools -> Developer Tools)
-- Use button to toggle device toolbar ![](https://github.com/cs3041-b21/lab0/blob/master/img/image3.png) .
+- Use button to toggle device toolbar ![](https://github.com/cs3041-d22/lab0/blob/master/img/image3.png) .
 - You can test different types of devices. For example, to test iPhone, select iPhone 6/7/8 from dropdown list: 
-![](https://github.com/cs3041-b21/lab0/blob/master/img/image2.png)
+![](https://github.com/cs3041-d22/lab0/blob/master/img/image2.png)
       v. Click on the three dots menu for more options. (Note: there may be other “three dots” menus on your screen. Make sure that you select the one next to the buttons shown in the screenshot below.) Then click on “Show Device Frame” which shows you the hardware:
-![](https://github.com/cs3041-b21/lab0/blob/master/img/image5.png)
+![](https://github.com/cs3041-d22/lab0/blob/master/img/image5.png)
   
-b. Rotate the device by clicking on ![](https://github.com/cs3041-b21/lab0/blob/master/img/image4.png) button
+b. Rotate the device by clicking on ![](https://github.com/cs3041-d22/lab0/blob/master/img/image4.png) button
   
 c. **Note:** It is always best to test on an actual device as a simulator will never give you the full experience. So, if you have an iphone or iPad to test on, that is even better. 
   
@@ -116,7 +116,7 @@ On canvas, submit the following:
 - a link to your Github repository
 - a link to your web page
 
-#### More resources on how to work locally with Git: 
+#### 2. More resources on how to work locally with Git: 
 - https://www.jquery-az.com/3-examples-of-git-create-new-branch/
 - https://desktop.github.com/
 - Some IDE like Visual Studio Code have integrated support for Git already
