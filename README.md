@@ -11,7 +11,7 @@ You will use [Github](https://github.com/) to host your lab directories and your
 If you need a Git/GitHub refresher, see this GitHub Bootcamp, the GitHub Guides (especially the ones on Hello World, and Understanding the GitHub Flow), and [CodeSchool's Try Git Course](https://www.pluralsight.com/courses/how-git-works).
 
 ## Text Editor
-You will require an editor to edit and create html files. You can use built in editors like Notepad or TextEditor or download a new one like Notepad++, Sublime, or VS Code for this. 
+You will require an editor to edit and create html files. You can use built in editors like Notepad or TextEditor or download a new one like Notepad++, [Sublime Text](https://www.sublimetext.com/3), or [VS Code](https://code.visualstudio.com/download) for this. 
 See this [HTML Editors page](https://www.w3schools.com/html/html_editors.asp)
 
 You can also follow the steps below to set up your first web page: 
@@ -28,19 +28,19 @@ The fork button is located on the top right of this page. [help](https://help.gi
 
   c. On your computer open a terminal in the directory where you would like to have your project folder and use the command `git clone link-to-YOUR-copy-of-the-repo` to clone your repository
   
-  **Note:** If your unable to successfuly clone your repository with your password and you are required to provide a personal access token. You may generate one      using the following steps
+  **Note:** If you are unable to successfuly clone your repository with your password and you are required to provide a [personal access token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token). You may generate one using the following steps
   
       i. Click your profile picture at the top right of your profile and a dropdown box will appear
       
       ii. Click on Settings
       
-      iii. On the left of your settings screen, Select Developer settings
+      iii. On the left of your settings screen, select Developer settings
       
       iv. In your Developer settings, select Personal Access Tokens
       
       v. Select Generate new token
       
-      vii. Provide a reason for why you need the token, select the priviledges you want the token to provide and finally at the bottom of your screen, Select Generate token
+      vii. Provide a reason for why you need the token, select the privileges you want the token to provide and finally at the bottom of your screen, Select Generate token
       
       viii. Use the generated token as your password when cloning your repository using Git
 
