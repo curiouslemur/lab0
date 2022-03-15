@@ -44,7 +44,7 @@ The fork button is located on the top right of this page. [help](https://help.gi
       
       viii. Use the generated token as your password when cloning your repository using Git
 
-  d. Move into your *lab0* directory and create an *index.html* file with the same content as [here](https://github.com/cs3041-d22/lab0/blob/master/README.md#indexhtml-code). You can use any editor mentioned [here](https://github.com/cs3041-d22/lab0/blob/master/README.md#Text-Editor) Save your edit.
+  d. Move into your *lab0* directory and create an *index.html* file with the same content as [the one at the bottom of this page](https://github.com/cs3041-d22/lab0/blob/master/README.md#indexhtml-code). You can use any editor mentioned [here](https://github.com/cs3041-d22/lab0/blob/master/README.md#Text-Editor). Save your edit.
 
   e. Whenever you want to submit your local changes to your remote repository, open a terminal inside your project and type the following commands: 
 ```
@@ -58,7 +58,7 @@ Now if you refresh your Github repository, you shall see the newly uploaded html
 
 ### 4. Create your gh-pages branch
 
-#### Option1: from your local computer 
+#### Option1️⃣: from your local computer 
 In your terminal again, type the following commands
 ```
 git checkout -b gh-pages         // create the new branch gh-pages
@@ -66,7 +66,7 @@ git status
 git merge main 
 git push --set-upstream origin gh-pages   // to do only the first time you push to a new branch otherwise just `git push` will do
 ```
-#### Option2: online on Github
+#### Option 2️⃣: online on Github
   a. Create a new branch called *gh-pages* in your repository and make sure its content is the same as the master branch. 
 ![](https://github.com/cs3041-d22/lab0/blob/master/img/image7.gif)
 
